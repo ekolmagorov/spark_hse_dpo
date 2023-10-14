@@ -1,0 +1,11 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+click==8.1.7
+colorama==0.4.4
+Flask==3.0.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+Pillow==10.0.1
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+Werkzeug==3.0.0
