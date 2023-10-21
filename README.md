@@ -10,7 +10,7 @@
 | 14 октября  |  02   | Оборачиваем модель в сервис. Вторая часть:<ul><li>Requests</li><li>REST API</li></ul> | <ul><li> [HTTP.FLASK.REST](Lectures/Lecture2)</li></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
 | 21 октября  |  03   | <ul><li>Распределенные вычисления</li><li>MapReduce</li><li>Spark DataFrame</li></ul> | <ul><li>[MapReduce](Lectures/Lecture3)</li></ul> | <ul><li>[ДЗ 1](Tasks/Task1)</li><li>Дедлайн 6 ноября</li></ul> |
 | xx октября |  04   | <ul><li>Распределенное хранение данных</li><li>Форматы хранения данных</li><li>Погружение в среду Spark</li></ul> | <ul></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
-| xx ноября |  05   | <ul><li>Генерация признаков</li><li>Spark feature engineering</li></ul> | <ul></ul>  | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )|
+| xx ноября |  05   | <ul><li>Генерация признаков</li><li>Spark feature engineering</li></ul> | <ul></ul>  | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
 | xx ноября |  06   | <ul><li>Распределенное обучение моделей</li><li>Spark ML</li></ul> | <ul></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
-| xx ноября   |  07   | <ul><li>Обработка и хранение текстовых данных и картинок</li><li>Spark image processing</li><li>Spark NLP</li></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )|
+| xx ноября   |  07   | <ul><li>Обработка и хранение текстовых данных и картинок</li><li>Spark image processing</li><li>Spark NLP</li></ul> | <ul></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
 | xx декабря  |  08   | <ul><li>Обработка потоковых данных</li><li>Spark Streaming</li></ul> | <ul></ul>  | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
