@@ -11,6 +11,6 @@
 | 21 октября  |  03   | <ul><li>Распределенные вычисления</li><li>MapReduce</li><li>Spark DataFrame</li></ul> | <ul><li>[MapReduce](Lectures/Lecture3)</li></ul> | <ul><li>[ДЗ 1](Tasks/Task1)</li><li>Дедлайн 6 ноября</li></ul> |
 | 28 октября |  04   | <ul><li>Распределенное хранение данных</li><li>Форматы хранения данных</li><li>Погружение в среду Spark</li></ul> | <ul><li>[SparkDetails](Lectures/Lecture4)</li></ul> | <ul><li>[ДЗ 2](Tasks/Task2)</li><li>Дедлайн 20 ноября</li></ul> |
 | 11 ноября |  05   | <ul><li>Accumulator/Broadcast</li><li>Генерация признаков</li><li>Нормализация данных</li></ul> | <ul><li>[FeatureEngineering](Lectures/Lecture5)</li></ul>  | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
-| xx ноября |  06   | <ul><li>Распределенное обучение моделей</li><li>Spark ML</li></ul> | <ul></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
+| 18 ноября |  06   | <ul><li>Визуализация данных</li><li>Распределенное обучение моделей</li><li>Spark ML</li></ul> | <ul>[SparkML](Lectures/Lecture6)</ul> | <ul><li>[ДЗ 3](Tasks/Task3)</li><li>Дедлайн 4 декабря</li></ul> |
 | xx ноября   |  07   | <ul><li>Обработка и хранение текстовых данных и картинок</li><li>Spark image processing</li><li>Spark NLP</li></ul> | <ul></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) |
 | xx декабря  |  08   | <ul><li>Обработка потоковых данных</li><li>Spark Streaming</li></ul> | <ul></ul>  | <ul><li>[Проект](Tasks/Project)</li><li>Дедлайн: 16 декабря</li></ul> |
