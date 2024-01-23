@@ -5,7 +5,7 @@
 * [Введение в современный AJAX](https://learn.javascript.ru/fetch)
 
 # Что почитать по теме:
-* Flask Web Development: Developing Web Applications with Python by Miguel Grinberg  
+* Flask Web Development: Developing Web Applications with Python by Miguel Grinberg
 
 # Запуск Flask примера внутри Docker-контейнера
 1. Чтобы собрать докер образ:
