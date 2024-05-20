@@ -11,6 +11,6 @@
 | 11 апреля  |  03   | <ul><li>Распределенные вычисления</li><li>MapReduce</li><li>Spark DataFrame</li></ul> | <ul><li>[MapReduce](Lectures/Lecture3)</li></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿) |
 | 18 апреля |  04   | <ul><li>Распределенное хранение данных</li><li>Форматы хранения данных</li><li>Погружение в среду Spark</li></ul> | <ul><li>[SparkDetails](Lectures/Lecture4)</li></ul> | <ul><li>[ДЗ 2](Tasks/Task2)</li></ul> |
 | 25 апреля |  05   | <ul><li>Accumulator/Broadcast</li><li>Генерация признаков</li><li>Нормализация данных</li></ul> | <ul><li>[FeatureEngineering](Lectures/Lecture5)</li></ul>  | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿) |
-| --- |  06   | <ul><li>Визуализация данных</li><li>Распределенное обучение моделей</li><li>Spark ML</li></ul> | <ul><li>[SparkML](Lectures/Lecture6)</li></ul> | <ul><li>[ДЗ 3](Tasks/Task3)</li></ul> |
-| ----   |  07   | <ul><li>Рекомендательые системы</li><li>ASL</li></ul> | <ul><li>[RecSys](Lectures/Lecture7)</li></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿) |
-| ----  |  08   | <ul><li>Обработка потоковых данных</li><li>Spark Streaming</li></ul> | <ul><li>[SparkStreaming](Lectures/Lecture8)</li></ul>  | <ul><li>[ДЗ 4](Tasks/Task4)</li></ul> |
+| 16 мая |  06   | <ul><li>Визуализация данных</li><li>Распределенное обучение моделей</li><li>Spark ML</li></ul> | <ul><li>[SparkML](Lectures/Lecture6)</li></ul> | <ul><li>[ДЗ 3](Tasks/Task3)</li></ul> |
+| 23 мая |  07   | <ul><li>Рекомендательые системы</li><li>ASL</li></ul> | <ul><li>[RecSys](Lectures/Lecture7)</li></ul> | ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿) |
+| 30 мая |  08   | <ul><li>Обработка потоковых данных</li><li>Spark Streaming</li></ul> | <ul><li>[SparkStreaming](Lectures/Lecture8)</li></ul>  | <ul><li>[ДЗ 4](Tasks/Task4)</li></ul> |
